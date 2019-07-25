@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/basic-counter/static/css/main.34de6062.chunk.css",
+    "main.js": "/basic-counter/static/js/main.7651539d.chunk.js",
+    "main.js.map": "/basic-counter/static/js/main.7651539d.chunk.js.map",
+    "runtime~main.js": "/basic-counter/static/js/runtime~main.d369a8ea.js",
+    "runtime~main.js.map": "/basic-counter/static/js/runtime~main.d369a8ea.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/basic-counter/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.1de66709.chunk.js": "/basic-counter/static/js/2.1de66709.chunk.js",
+    "static/js/2.1de66709.chunk.js.map": "/basic-counter/static/js/2.1de66709.chunk.js.map",
+    "index.html": "/basic-counter/index.html",
+    "precache-manifest.6252ab7bb1845bb7dd3c9a2ef6b44f30.js": "/basic-counter/precache-manifest.6252ab7bb1845bb7dd3c9a2ef6b44f30.js",
+    "service-worker.js": "/basic-counter/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/basic-counter/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/basic-counter/static/css/main.34de6062.chunk.css.map"
+  }
+}
