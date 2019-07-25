@@ -2,7 +2,7 @@
   "name": "counter-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mbebird.github.io/basic-counter",
+  "homepage": "https://mebird.github.io/basic-counter",
   "dependencies": {
     "@babel/runtime": "^7.5.5",
     "bootstrap": "^4.3.1",
