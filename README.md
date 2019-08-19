@@ -10,6 +10,4 @@ A basic counter written using [React](https://reactjs.org/ "React"), heavily inf
 
 ## Reflection/Future Improvements
 
-- The gitpage is completely broken and only displays the "raw" JS from the index.js file; I need to approach this in the future and unravel it.
-
 - I wrote the app as I was learning the basics of React and JavaScript--needless to say, good programming practices regarding encapsulation went out the window. To further improve functionality and cleanliness, the summation functionality in the `counters` class should be reworked so it doesn't rely on a copy of the values in its children counters in its own state. Encapsulating that functionality would require completely rewriting a majority of the related code, and so it's a good project to revisit when my handle on React is much more solid.
